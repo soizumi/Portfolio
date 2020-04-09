@@ -1,0 +1,12 @@
+<svg class="skill_star_principal"  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 28.6 27.2">
+    <defs></defs>
+    <title></title>
+    <symbol id="skill_star_principal" data-name="star">
+        <g>
+            <polygon class="star_left" points="14.3 22.56 23.14 27.2 21.45 17.36 28.6 10.39 18.72 8.96 14.3 0 14.3 22.56" />
+        </g>
+        <g>
+            <polygon class="star_right" points="14.3 0 9.88 8.96 0 10.39 7.15 17.36 5.46 27.2 14.3 22.56 14.3 0" fill="currentColor"/>
+        </g>
+    </symbol>
+</svg>
